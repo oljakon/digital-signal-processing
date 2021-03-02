@@ -3,10 +3,10 @@ from numpy import exp, arange
 from math import pi, sin
 
 
-period = 2          # границы интервала
-samples = 150       # количество отсчетов
-step = 0.01         # шаг дискретизации
-amplitude = 1.0     # амплитуда
+period = 2
+samples = 150
+step = 0.01
+amplitude = 1.0
 sigma = 1.0
 
 
